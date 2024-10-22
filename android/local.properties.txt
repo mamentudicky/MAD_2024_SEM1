@@ -1,0 +1,2 @@
+sdk.dir=C:\\Users\\dicky\\AppData\\Local\\Android\\Sdk
+
